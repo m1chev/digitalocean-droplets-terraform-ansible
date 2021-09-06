@@ -1,4 +1,5 @@
 hosts.ini
 .terraform/
 terraform.*
+.terraform.lock.hcl
 
